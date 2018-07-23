@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Drowning in Code
 header-img: img/home-bg.png
 email: taraellicott@gmail.com
 copyright_name: taraellicott
 description: > # this means to ignore newlines until "baseurl:"
-  
+  smooth seas never made a skilled sailor
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  taraellicott
