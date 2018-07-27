@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Wait, Am I A Robot?"
-date:       2018-07-26 23:56:57 +0000
+title:      "Wait, Am I a Robot?"
+date:       2018-07-26 19:56:58 -0400
 permalink:  wait_am_i_a_robot
 ---
 
