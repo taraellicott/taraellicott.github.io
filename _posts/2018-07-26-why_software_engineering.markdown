@@ -23,10 +23,10 @@ Did I mention that some of these guys were my friends? Like, my pretty good frie
 
 I cut off the final vestiges of my burgeoning engineering career that day. I quit the computer science class. I convinced myself that it was my choice. That I just wasn't good at it. I majored in anthropology. I became a bus driver to pay for school since quitting engineering meant that I had to give up my full ROTC sholarship.
 
-And now twenty years later I decided to give it another shot. The computer science that is. Not the military. Definitely not the military.
+And now, twenty years later, I decided to give it another shot. The computer science that is. Not the military. Definitely not the military.
 
 What an inspiration I am!
 
-Oh, but then, despite all my hard work, Flatiron decided to kick me out of the in-person program and push me into the on-line program. Well thanks a lot Flatiron.
+Oh, but then, despite all my hard work, I got pushed out of the in-person program, so now I'm trying to do this online program. I wasn't the only woman pushed out. In a school where only 25% of the students ae female,they kicked two of us out. Apparently things haven't changed much in the last twenty years.
 
-How do I feel right now? Like I never should have bothered trying again. Pretty much. 
+How do I feel right now? Like I never should have bothered trying again. 
