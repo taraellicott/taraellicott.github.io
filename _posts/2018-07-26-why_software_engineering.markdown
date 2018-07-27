@@ -27,6 +27,6 @@ And now, twenty years later, I decided to give it another shot. The computer sci
 
 What an inspiration I am!
 
-~~Oh, but then, despite all my hard work, I got pushed out of the in-person program, so now I'm trying to do this online program. I wasn't the only woman pushed out. In a school where only 25% of the students ae female,they kicked two of us out. Apparently things haven't changed much in the last twenty years.~~
+<p hidden> Oh, but then, despite all my hard work, I got pushed out of the in-person program, so now I'm trying to do this online program. I wasn't the only woman pushed out. In a school where only 25% of the students ae female,they kicked two of us out. Apparently things haven't changed much in the last twenty years. </p>
 
-~~How do I feel right now? Like I never should have bothered trying again. ~~
+<p hidden> How do I feel right now? Like I never should have bothered trying again. </p>
