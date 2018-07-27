@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Ethics or How to Not Be Evil (I'm looking at you Google)"
-date:       2018-07-27 00:01:29 +0000
+title:      "Ethics or How to Not Be Evil (I'm looking at You Google)"
+date:       2018-07-26 20:01:30 -0400
 permalink:  ethics_or_how_to_not_be_evil_im_looking_at_you_google
 ---
 
