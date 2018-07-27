@@ -9,7 +9,7 @@ Well, why not?
 
 When I was 19 I dropped out of a mechanical engineering program. I pretended like it was my choice because it technically was, but when I look back I was really a victim of circumstance.
 
-Growing up, all the women around me were always smart. So I never doubted for a minute that a woman could do a job just as well as a man could. In high school, all the honors classes were filled with women. Of course, this was because the boys had better options when it came for schools to attend, but I didn't really get what that really meant at the time.
+Growing up, all the women around me were always smart. So I never doubted for a minute that a woman could do a job just as well as a man could. In high school, all the honors classes were filled with women. Of course, this was because the boys had better options when it came to schools they could attend, but I didn't realize that at the time.
 
 So I guess I was a bit naive when I went off to college. I remember sitting in a class with 500 other students. The professor told us to look to the student to our left. He said that by the end of the year half of us would be gone. He was right. I quit at the end of the semester.
 
@@ -29,4 +29,4 @@ What an inspiration I am!
 
 Oh, but then, despite all my hard work, Flatiron decided to kick me out of the in-person program and push me into the on-line program. Well thanks a lot Flatiron.
 
-How do I feel right now? Like I never should have bothered to try again. But, hey, who cares what I have to say because it's not like anyone really reads these blog posts, now do they?
+How do I feel right now? Like I never should have bothered trying again. Pretty much. 
