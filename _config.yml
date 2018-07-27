@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: taraellicott@gmail.com
 copyright_name: taraellicott
 description: > # this means to ignore newlines until "baseurl:"
-  Smooth Seas Never Did A Skilled Sailor Make
+  Smooth Seas Never Did a Skilled Sailor Make
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  taraellicott
