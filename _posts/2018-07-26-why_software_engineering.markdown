@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Engineering"
-date:       2018-07-27 00:50:45 +0000
+date:       2018-07-26 20:50:46 -0400
 permalink:  why_software_engineering
 ---
 
@@ -27,6 +27,6 @@ And now twenty years later I decided to give it another shot. The computer scien
 
 What an inspiration I am!
 
-Oh, but then, despite all my hard work, Flatiron decided to kick me out of the in-person program and push me into the on-line program. Well eff-ewe Flatiron.
+Oh, but then, despite all my hard work, Flatiron decided to kick me out of the in-person program and push me into the on-line program. Well thanks a lot Flatiron.
 
 How do I feel right now? Like I never should have bothered to try again. But, hey, who cares what I have to say because it's not like anyone really reads these blog posts, now do they?
